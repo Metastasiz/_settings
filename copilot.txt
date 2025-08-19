@@ -2,7 +2,7 @@ v-Mark.arunsangsirin
 v-bruno.grotowski
 v-pawelza
 v-Pawel.Zambrzycki
-o.stepnicka
-v-ostepnicka
+//o.stepnicka//
+//v-ostepnicka//
 v-dawid.cesarczyk
-v-Serge.lemba
+//v-Serge.lemba//
